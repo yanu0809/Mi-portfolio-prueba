@@ -1,0 +1,104 @@
+
+body{
+    font-family: 'Caveat', cursive;
+    font-size: 19px;
+    
+    
+
+}
+
+
+.conteinerCard{
+    margin-top: 2rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.card-text{
+    display: flex;
+    justify-content: center;
+}
+.yo{
+    border-radius: 50%;
+}
+.card-group{
+    
+    padding: 2rem;
+}
+.card-img-top{
+    height: 15.5rem;
+}
+.noseve{
+    
+    display: flex;
+    justify-content: center;
+}
+.mi{
+    width: 100%;
+   
+}
+.acerca{
+    display: flex;
+    justify-content: center;
+    margin: 0%,2rem,0,2rem;
+}
+.texto{
+   
+   margin: 1rem;
+    
+    text-align: center;
+    
+}
+.espace{
+    height: 10rem;
+}
+.corona{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.colortexto{
+    color: aliceblue;
+}
+.fondoimagen{
+    background-image: url(https://pymstatic.com/112076/conversions/reflexiones-atardecer-default.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fondocarta{
+    background-color: rgb(218, 110, 131);
+}
+.fondoimagen2{
+    background-image: url(https://www.lovethispic.com/uploaded_images/118644-Purple-Ocean-Sunset.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.fondoimagen3{
+    background-image: url(https://media.admagazine.com/photos/61e744ca9b19d943aa117af0/16:9/w_2992,h_1683,c_limit/tim-mossholder-O0T7Enu2FYg-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.blanca{
+    /* background-color: aliceblue;**/ 
+}
+.fondourl{
+    background-image: url(https://i.pinimg.com/originals/f3/9c/6e/f39c6e5a89095080c9583fe14380175c.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.clase123{
+    background-image: url(https://www.xtrafondos.com/wallpapers/resoluciones/20/diseno-de-paisaje-del-espacio_2560x1440_5771.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.colorfuter{
+    color: #eef0e4;
+}
+
+
+   
